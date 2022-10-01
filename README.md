@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @junelee0010
-- 👀 I’m interested in hacking
+- 👀 I’m interested in Pokémon
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on making tools
 - 📫 How to reach me contact to junemlk@naver.com
