@@ -2,7 +2,7 @@
 - 👀 I’m interested in Pokémon
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on making tools
-- 📫 How to reach me contact to junemlk@naver.com
+- 📫 How to reach me contact to junemlk448@gmail.com
 
 <!---
 junelee0010/junelee0010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
